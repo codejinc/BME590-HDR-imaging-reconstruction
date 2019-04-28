@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+
+
+
+
+data/
+hdrcnn_params.npz
+hdrcnn_params_compr.npz
